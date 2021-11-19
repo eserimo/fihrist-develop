@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Telefon Fihrist</title>
+    <link rel="stylesheet" href="styleF.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <h1 class="page-title">&#x2728;Telefon Fihristi (11 kişi) &#x2728;</h1>
+    <div id="searchWrapper">
+      <div class="search-collider">
+        <i class="fas fa-search"></i>
+        <input
+          type="text"
+          name="searchBar"
+          id="searchBar"
+          placeholder="aramak istediğiniz kişinin adını girin"
+        />
+      </div>
+      <div id="container">
+        <ul id="charactersList">
+          <button type="button" class="show-modal">Add person</button>
+          
+          <div class="modal hidden">
+            <button class="close-modal">&times;</button>
+            
+            <h1 class="title">New Person For Fihrist </h1>
+            <div class="form-group mx-2 mb-3">
+              <label for="name">Name</label>
+              <input type="text" class="form-control" id="name" placeholder="Name" required="">
+          </div>
+          <div class="form-group mx-2">
+              <label for="address">Address</label>
+              <input type="text" class="form-control" id="address" placeholder="Address" required="">
+          </div>
+          <div class="form-group mx-2">
+            <label for="number">Number</label>
+            <input type="text" class="form-control" id="number" placeholder="Number" required="">
+        </div>
+      </form>
+      <div class="modal-footer justify text-14">
+        <button id="submit" type="submit" class="btn btn-primary" data-toggle="modal" data-target="#modalForm">Submit</button>
+    </div>
+          </div>
+          
+         
+          </div>
+
+          <div class="overlay hidden"></div>
+        </ul>
+      </div>
+    </div>
+    <div id="persons"></div>
+
+    <p class="footer">Creator Ez</p>
+    `;
+    <script src="shapeJ.js"></script>
+  </body>
+</html>

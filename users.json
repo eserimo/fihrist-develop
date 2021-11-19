@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "Ahmet Eygi",
+      "address": "Bornova",
+      "number": ["000 000 00 00", "111 111 11 11"],
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Ahmet Hakan Eygi",
+      "address": "İstanbul",
+      "number": "222 222 22 22",
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Beril Canay",
+      "address": "Bursa",
+      "number": ["444 444 44 44", "555 555 55 55"],
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Cevat Aydın",
+      "address": "Balıkesir",
+      "number": "222 222 22 22",
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Derin Deniz",
+      "address": "Trabzon",
+      "number": ["000 000 00 00", "111 111 11 11"],
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Eser Yılmaz",
+      "address": "Balçova",
+      "number": "222 222 22 22",
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Fatih terim",
+      "address": "Adana",
+      "number": ["000 000 00 00", "111 111 11 11"],
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Faruk Güngör",
+      "address": "İstanbul",
+      "number": "222 222 22 22",
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Kıymet Zümra Bay",
+      "address": "İstanbul",
+      "number": "531 669 31 69",
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Mehmet Polat",
+      "address": "İstanbul",
+      "number": ["000 000 00 00", "111 111 11 11"],
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    },
+    {
+      "name": "Zümra Bay",
+      "address": "Çanakkale",
+      "number": "545 472 23 87",
+      "photo": "https://www.google.com/search?q=twitter+egg+profile&sxsrf=AOaemvISMN55twPN-RqxaJCfDAJNksVzhA:1635800963839&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwionP26ifjzAhVDyzgGHYzcAeAQ_AUoAXoECAEQAw#imgrc=8-h3U5sdAk8c6M"
+    }
+  ]
+}
